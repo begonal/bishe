@@ -7,14 +7,30 @@
     "build": "vue-cli-service build"
   },
   "dependencies": {
+    "animate.css": "^4.1.1",
+    "axios": "^0.20.0",
+    "babel-polyfill": "^6.26.0",
+    "china-city-data": "^1.0.1",
     "core-js": "^3.6.5",
+    "element-ui": "^2.13.2",
+    "jquery": "^3.5.1",
+    "store": "^2.0.12",
+    "v-distpicker": "^1.2.7",
     "vue": "^2.6.11",
-    "vue-router": "^3.2.0"
+    "vue-city-picker": "^1.1.1",
+    "vue-citypicker": "^1.0.1",
+    "vue-cookies": "^1.7.4",
+    "vue-dplayer": "0.0.10",
+    "vue-router": "^3.2.0",
+    "vuex": "^3.5.1"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "~4.5.0",
     "@vue/cli-plugin-router": "~4.5.0",
     "@vue/cli-service": "~4.5.0",
+    "node-sass": "^4.14.1",
+    "sass-loader": "^10.0.4",
+    "vue-cli-plugin-element": "^1.0.1",
     "vue-template-compiler": "^2.6.11"
   }
 }
